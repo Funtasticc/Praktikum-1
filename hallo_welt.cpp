@@ -10,12 +10,12 @@ int main()
 	cout << "Hallo Welt!\n"; 
 	
 	/*Der Testlauf wird
-	hier stoppen: Taste drücken*/
+	hier stoppen: Taste drÃ¼cken*/
 
-	system("pause"); 
+	system("PAUSE"); 
 
-	/*Rückgabewert 0: fehler-
-	freie Programmausführung!*/
+	/*RÃ¼ckgabewert 0: fehler-
+	freie ProgrammausfÃ¼hrung!*/
 
 	return 0;
 }
