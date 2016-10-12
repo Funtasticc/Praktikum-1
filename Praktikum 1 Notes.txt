@@ -1,0 +1,66 @@
+Aufgabe INF-MCD-WI-01.03:
+
+system("PAUSE") und return 0 
+werden durch den Blockkommentar 
+auskommentiert und wird daher überlesesen
+Wenn kein return 0; angegeben wird,
+ist der Ausgabewert trotzdem 0
+
+
+Aufgabe INF-MCD-WI-01.04:
+
+Ja, wenn das Hauptprogramm Auskommentiert wird
+Kompiliert das Programm und kann ausgeführt werden.
+
+Aufgabe INF-MCD-WI-01.05: (Zeilennummerierung)
+
+erledigen!
+
+
+Aufgabe INF-MCD-WI-01.06:
+(Relevanz von Zeilenumbrüchen)
+
+Ja, man kann den Quellcode strecken, 
+allerdings macht es alles ein wenig unübersichtlich.
+Man kann es Kompilieren und auch an der Ausführung ändert
+sich nichts.
+
+
+Aufgabe INF-MCD-WI-01.07:
+(Semikolon terminiert Anweisungen)
+
+Popupfenster sagt: Es wurde ein Semikolon erwartet.
+Kompilieren wird fehlerhaft und das Programm kann nicht mehr
+ausgeführt werden.
+
+
+Aufgabe INF-MCD-WI-01.08:
+(Mehrere Anweisungen in einer Zeile)
+Ja man kann mehrere Anweisungen in eine Zeile schreiben solange
+man sie mit einem Semikolon voneinander trennt.
+Dann ändert es nichts an der Ausführung und kann auch
+problemlos Kompiliert werden.
+
+
+Aufgabe INF-MCD-WI-01.09: (Anweisungsblöcke)
+
+Nein, es lässt sich nach wie vor Kompilieren so wie auch 
+ausführen.
+Wenn man mehrere Geschweifte Klammern innerhalb des Hauptprogramms
+schreibt, kann man z.B. mehrere Rümpfe innerhalb des Hauptprogramms erstellen
+Bsp:
+int main()
+{
+
+{
+x+3
+}
+*
+{
+x-3
+}
+}
+
+Aufgabe INF-MCD-WI-01.10: (Einrückungen)
+Bearbeiten 
+Erweitert  Zeileneinzug vergrößern
